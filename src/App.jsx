@@ -1,8 +1,8 @@
-import Navbar from "./component/navbar"
-import Hero from "./component/hero"
-import Technology from "./component/technology"
-import Projects from "./component/projects"
-import Contact from "./component/contact"
+import Navbar from "./component/Navbar"
+import Hero from "./component/Hero"
+import Technology from "./component/Technology"
+import Projects from "./component/Projects"
+import Contact from "./component/Contact"
 function App(){
   return (
     <>
